@@ -25,4 +25,4 @@ A simple web application that checks if a given input is a palindrome. The appli
 
 1. **Clone the repository** to your local machine using:
    ```bash
-   git clone https://github.com/Engrkhizarkhan/Palindrome-Checker.git
+   git clone https://github.com/Engrkhizarkhan/Palindrome-Checker
